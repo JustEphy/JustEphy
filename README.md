@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustEphy
 - 👀 I’m interested in software development and video games
-- 🌱 I’m currently learning c++, java, python, html/css
+- 🌱 I’m a continous learner of c++, java, python, html/css, react
 - 💞️ I’m looking to collaborate on anything. 
 
 - 😄 Pronouns: He/Him
